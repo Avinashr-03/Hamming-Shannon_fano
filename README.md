@@ -62,11 +62,7 @@ result(sf,"Shannon-Fano Performance")
 Compare the manually calculated value and the observed practical value.
 ```
 # Output
-```
-
 <img width="1058" height="382" alt="image" src="https://github.com/user-attachments/assets/f909a83f-1157-4d49-ab30-11d48eb26b90" />
-
-``` 
 # Results:
 ```
 Write the conclusion
